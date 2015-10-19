@@ -1,0 +1,14 @@
+namespace ex1;
+
+class Match
+{
+  int ID;
+}
+
+class Manager
+{
+  singleton;
+  int ID;
+  1 -> * Match;
+  
+}
